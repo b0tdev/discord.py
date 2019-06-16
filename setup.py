@@ -43,12 +43,9 @@ extras_require = {
 }
 
 setup(name='discord.py',
-      author='Rapptz',
-      url='https://github.com/Rapptz/discord.py',
-      project_urls={
-        "Documentation": "https://discordpy.readthedocs.io/en/latest/",
-        "Issue tracker": "https://github.com/Rapptz/discord.py/issues",
-      },
+      author='DD',
+      url='https://github.com/b0tdev/Alpha-Bot',
+      
       version=version,
       packages=['discord', 'discord.ext.commands', 'discord.ext.tasks'],
       license='MIT',
